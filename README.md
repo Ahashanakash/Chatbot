@@ -194,4 +194,4 @@ The proposed chatbot follows the Retrieval-Augmented Generation (RAG) paradigm:
 
 ## Declaration
 
-This project was completed as part of the requirements for **CSE 342 – Artificial Intelligence Sessional**. The implementation and report are original work, and all referenced materials have been properly acknowledged.
+This project was completed as part of the requirements for **CSE 342 – Artificial Intelligence Sessional**. The implementation and report are original work, and all referenced materials have been properly acknowledged. I hereby declare that this project is my own work and has not been copied from any other source.
