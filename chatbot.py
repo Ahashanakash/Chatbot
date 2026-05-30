@@ -12,7 +12,7 @@ Original file is located at
 # ======================================
 from google.colab import drive
 drive.mount('/content/drive')
-print("✅ Google Drive connected!")
+print(" Google Drive connected!")
 
 # ======================================
 # CELL 2 — Install all
@@ -37,7 +37,7 @@ print(f"Device: {device}")
 
 
 from google.colab import files
-print("📁 Sarcasm_Headlines_Dataset_v2.json upload করো:")
+print(" Sarcasm_Headlines_Dataset_v2.json upload করো:")
 uploaded = files.upload()
 
 data = []
